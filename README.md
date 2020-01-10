@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice Game
 
 Dice Game is an interactive web page which mimics the roll of two dice. It uses HTML and CSS in conjunction with JavaScript. In addition, the Document Object Model (DOM) is utilized to change object specific properties such as image and text.
 
